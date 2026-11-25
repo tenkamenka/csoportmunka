@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Oldal-1" id="5UsPO6g-b37Tu0Fm9b5S">
+    <mxGraphModel dx="1342" dy="1989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JxZsduXBAtm--SQiVp05-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="690" width="690" x="70" y="-30" as="geometry" />
+        </mxCell>
+        <mxCell id="JxZsduXBAtm--SQiVp05-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Header" vertex="1">
+          <mxGeometry height="70" width="670" x="80" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="JxZsduXBAtm--SQiVp05-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Menü" vertex="1">
+          <mxGeometry height="40" width="120" x="110" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JxZsduXBAtm--SQiVp05-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Menü" vertex="1">
+          <mxGeometry height="40" width="120" x="275" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JxZsduXBAtm--SQiVp05-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Menü" vertex="1">
+          <mxGeometry height="40" width="120" x="440" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JxZsduXBAtm--SQiVp05-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Menü" vertex="1">
+          <mxGeometry height="40" width="120" x="610" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JxZsduXBAtm--SQiVp05-8" edge="1" parent="1" source="JxZsduXBAtm--SQiVp05-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="JxZsduXBAtm--SQiVp05-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JxZsduXBAtm--SQiVp05-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Footer" vertex="1">
+          <mxGeometry height="70" width="670" x="79" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="JxZsduXBAtm--SQiVp05-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Összegzés: szállítás, db, forint" vertex="1">
+          <mxGeometry height="140" width="455" x="275" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="JxZsduXBAtm--SQiVp05-17" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Könyv képe" vertex="1">
+          <mxGeometry height="140" width="140" x="110" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="JxZsduXBAtm--SQiVp05-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kupon" vertex="1">
+          <mxGeometry height="40" width="620" x="110" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="JxZsduXBAtm--SQiVp05-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Összesen" vertex="1">
+          <mxGeometry height="80" width="260" x="470" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="JxZsduXBAtm--SQiVp05-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Megrendelés" vertex="1">
+          <mxGeometry height="40" width="120" x="610" y="470" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
